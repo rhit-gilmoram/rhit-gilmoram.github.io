@@ -13,3 +13,7 @@ header {
 footer {
   background-color: #dddddd;
 }
+
+img {
+  background-color: transparent;
+}
