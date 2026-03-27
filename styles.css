@@ -1,1 +1,15 @@
+:root {
+  --rhit-red: #800000;
 
+.centered {
+  text-align: centered;
+}
+
+header {
+  color: white;
+  background-color: var(--rhit-red);
+}
+
+footer {
+  background-color: #dddddd;
+}
