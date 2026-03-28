@@ -5,6 +5,13 @@
   text-align: center;
 }
 
+.project {
+  float: left;
+  height: 450px;
+  width: auto;
+}
+  
+
 header {
   background-color: var(--rhit-red);
 }
@@ -45,4 +52,9 @@ footer img {
   height: 1em;
   vertical-align: middle;
   width: auto;
+}
+
+footer span {
+  line-height: 20px;
+  margin: 5px;
 }
