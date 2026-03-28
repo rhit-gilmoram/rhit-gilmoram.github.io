@@ -42,4 +42,7 @@ img {
   
 footer img {
   display: inline-block;
+  height: 1em;
+  vertical-align: middle;
+  width: auto;
 }
