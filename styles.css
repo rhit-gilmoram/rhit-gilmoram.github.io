@@ -27,7 +27,16 @@ img {
 
 .box img {
   width: 90%;
+  border: solid black 4px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
 }
-.footer img {
+
+.clear {
+  clear: both;
+}
+  
+footer img {
   display: inline-block;
 }
