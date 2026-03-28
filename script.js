@@ -8,3 +8,14 @@ async function loadHTMLElement(elementID, fileName){
 
 loadHTMLElement("navigationBar", "navbar.html");
 loadHTMLElement("footer", "footer.html");
+
+
+let resumeBtn = document.getElementById("resumeButton");
+resumeBtn.addEventListener("click", function() {
+  window.location.href="resume.html";
+});
+
+let portfolioBtn = document.getElementById("portfolioButton");
+portfolioBtn.addEventListener("click", function() {
+  windo.location.href="portfolio.html";
+});
