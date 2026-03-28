@@ -19,14 +19,6 @@ h2 {
   height: 450px;
   width: auto;
 }
-
-a:link {
-  color:blue;
-}
-
-a:visited {
-  color: purple;
-}
   
 section p {
   clear: both;
@@ -41,14 +33,6 @@ header a {
   padding: 4px;
   margin-left: 5px;
   margin-right: 5px;
-}
-
-header a:link {
-  text-decoration: underline;
-}
-
-header a:visited {
-  text-decoration: none;
 }
 
 footer {
