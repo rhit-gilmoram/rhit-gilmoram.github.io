@@ -19,3 +19,9 @@ let portfolioBtn = document.getElementById("portfolioButton");
 portfolioBtn.addEventListener("click", function() {
   window.location.href="portfolio.html";
 });
+
+let likeBtn = document.getElementById("likeButton");
+likeBtn.addEventListener("click", function() {
+  let num = document.getElementById("likes");
+  num.innerHTML = parseInt(num.innerHTML) + 1;
+});
