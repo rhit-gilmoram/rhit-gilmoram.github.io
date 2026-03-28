@@ -6,8 +6,11 @@
 }
 
 header {
-  color: white;
   background-color: var(--rhit-red);
+}
+
+header a {
+  color: white;
 }
 
 footer {
