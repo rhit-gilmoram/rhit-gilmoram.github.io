@@ -11,11 +11,11 @@ loadHTMLElement("footer", "footer.html");
 
 
 let resumeBtn = document.getElementById("resumeButton");
-resumeBtn.onclick = function() {
+resumeBtn.addEventListener("click", function() {
   window.location.href="resume.html";
-};
+});
 
 let portfolioBtn = document.getElementById("portfolioButton");
-portfolioBtn.onclick = function() {
+portfolioBtn.addEventListener("click", function() {
   window.location.href="portfolio.html";
-};
+});
