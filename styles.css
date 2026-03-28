@@ -1,6 +1,15 @@
 :root {
   --rhit-red: #800000;
+}
 
+h1 {
+  text-transform: uppercase;
+}
+
+h2 {
+  font-style: italic;
+}
+  
 .centered {
   text-align: center;
 }
