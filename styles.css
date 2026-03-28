@@ -25,3 +25,6 @@ img {
 .box img {
   width: 90%;
 }
+.footer img {
+  display: inline-block;
+}
