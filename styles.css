@@ -8,7 +8,7 @@
 .project {
   float: left;
   height: 450px;
-  width: 450px;
+  width: auto;
 }
   
 section p {
