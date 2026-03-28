@@ -11,7 +11,10 @@
   width: auto;
 }
   
-
+section p {
+  clear: both;
+}
+  
 header {
   background-color: var(--rhit-red);
 }
