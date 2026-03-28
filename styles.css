@@ -17,3 +17,11 @@ footer {
 img {
   background: transparent;
 }
+
+.box {
+  width: 40%;
+}
+
+.box img {
+  width: 90%;
+}
